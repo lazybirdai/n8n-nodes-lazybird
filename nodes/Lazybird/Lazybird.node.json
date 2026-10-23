@@ -1,0 +1,18 @@
+{
+	"node": "n8n-nodes-lazybird.lazybird",
+	"nodeVersion": "1.0",
+	"codexVersion": "1.0",
+	"categories": ["Marketing & Content"],
+	"resources": {
+		"credentialDocumentation": [
+			{
+				"url": "https://github.com/lazybirdai/n8n-nodes-lazybird#credentials"
+			}
+		],
+		"primaryDocumentation": [
+			{
+				"url": "https://github.com/lazybirdai/n8n-nodes-lazybird#readme"
+			}
+		]
+	}
+}
